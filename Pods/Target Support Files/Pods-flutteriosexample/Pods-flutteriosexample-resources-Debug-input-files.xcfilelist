@@ -1,0 +1,19 @@
+${PODS_ROOT}/Target Support Files/Pods-flutteriosexample/Pods-flutteriosexample-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/DKImagePickerController/DKImagePickerController.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/DKPhotoGallery/DKPhotoGallery.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/GTMSessionFetcher/GTMSessionFetcher_Core_Privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/GoogleDataTransport/GoogleDataTransport_Privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/GoogleToolboxForMac/GoogleToolboxForMac_Privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/GoogleToolboxForMac/GoogleToolboxForMac_Logger_Privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/GoogleUtilities/GoogleUtilities_Privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/MLKitFaceDetection/GoogleMVFaceDetectorResources.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/PromisesObjC/FBLPromises_Privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/SDWebImage/SDWebImage.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/SwiftyGif/SwiftyGif.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/camera_avfoundation/camera_avfoundation_privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/file_picker/file_picker_ios_privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/image_picker_ios/image_picker_ios_privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/nanopb/nanopb_Privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/package_info_plus/package_info_plus_privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/permission_handler_apple/permission_handler_apple_privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/url_launcher_ios/url_launcher_ios_privacy.bundle

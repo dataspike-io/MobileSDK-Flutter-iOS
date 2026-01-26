@@ -1,0 +1,6 @@
+framework module dataspikemobilesdk {
+  umbrella header "dataspikemobilesdk-umbrella.h"
+
+  export *
+  module * { export * }
+}
