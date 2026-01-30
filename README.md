@@ -51,3 +51,6 @@ the SDK triggers the `onVerificationCompleted` callback.
 
 You should handle this callback to determine the next screen in your application
 (e.g. success, retry, or failure state after verification).
+
+> ⚠️ Note: An explicit exit / cancellation from the verification flow is not available yet.
+> This will be added in one of the upcoming SDK versions.
