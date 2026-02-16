@@ -49,8 +49,8 @@ final class SomeViewController: UIViewController {
     
     present(flutterVC, animated: true) {
       channel.invokeMethod("startDataspikeFlow", arguments: [
-        "dsApiToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJvMzU0ZDUyZjlmZDQzNDMyIiwidHBlIjowLCJhcCI6bnVsbCwicyI6IjFmMDc0OGZmLWExY2QtNmE5OS1iMjBlLTFmMWU1MzU2YmI3YiIsImlzcyI6ImRhdGFzcGlrZS5pbyJ9.6KGLVIUScny77MthbXDM9Rg8zd7on-zT3fCpPLp27_4",
-        "shortId": "VBB1DB6C98EB4E650",
+        "dsApiToken": "YOUR_TOKEN",
+        "shortId": "YOUR_SHORT_ID",
         "isDebug": true // false depends on impl
       ])
     }
