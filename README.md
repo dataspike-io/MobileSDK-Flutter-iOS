@@ -51,3 +51,7 @@ the SDK triggers the `onVerificationCompleted` callback.
 
 You should handle this callback to determine the next screen in your application
 (e.g. success, retry, or failure state after verification).
+
+## Setup After Cloning
+
+After cloning the Flutter repository, make sure to run flutter pub get inside DataspikeModule/dataspike_module/dataspike_module/, and then execute pod install in the iOS directory to properly resolve all dependencies.
